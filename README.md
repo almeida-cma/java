@@ -21,7 +21,7 @@ O principal objetivo deste programa é demonstrar o uso de um loop while para co
 Quando executado, o programa primeiro solicita ao usuário que especifique quantos números deseja inserir. Em seguida, para cada número, o programa verifica se ele é ímpar. Se for, o número é somado a um total acumulado. Finalmente, o programa exibe a soma de todos os números ímpares inseridos. <BR>
 O principal objetivo deste programa é demonstrar como usar um loop for para ler um número específico de entradas e realizar uma ação condicional (neste caso, somar números ímpares).
 
-7-TesteArray.txt <BR>
+7-TesteArray.txt (TesteArray.java) <BR>
 Quando este programa é executado, ele imprimirá os números 10, 20, 70, 40 e 50 no console, um número por linha. <BR>
 O principal objetivo deste programa é demonstrar a manipulação básica de arrays em Java: como declará-los, inicializá-los e iterar sobre eles para exibir seus valores.
 
