@@ -38,7 +38,7 @@ Calcular e imprimir a média dos valores no array (11.25, neste caso). <BR>
 Somar todos os elementos e imprimir a soma (45, neste caso). <BR>
 A principal característica deste programa é demonstrar como criar e utilizar métodos que recebem arrays como parâmetros para realizar operações comuns em arrays.
 
-10-Matriz.txt <BR>
+10-Matriz.txt (Matriz.java) <BR>
 Quando o programa é executado, ele irá imprimir: <BR>
 1 2 3 <BR>
 2 4 5 <BR>
