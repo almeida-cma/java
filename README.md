@@ -1,7 +1,7 @@
 1-Exemplos saídas na tela.txt (Saidas.java) <BR>
 No geral, o programa demonstra como usar System.out.print e System.out.println para exibir mensagens no console, bem como a utilização do caractere de quebra de linha \n.
 
-2-Ler dados na tela - Scanner.txt <BR>
+2-Ler dados na tela - Scanner.txt (ScannerDemo1.java) <BR>
 Este programa serve como uma demonstração prática de como utilizar a classe Scanner para ler diferentes tipos de dados da entrada padrão em Java.
 
 3-Condições - tradicional.txt <BR>
