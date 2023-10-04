@@ -4,7 +4,7 @@ No geral, o programa demonstra como usar System.out.print e System.out.println p
 2-Ler dados na tela - Scanner.txt (ScannerDemo1.java) <BR>
 Este programa serve como uma demonstração prática de como utilizar a classe Scanner para ler diferentes tipos de dados da entrada padrão em Java.
 
-3-Condições - tradicional.txt <BR>
+3-Condições - tradicional.txt (CondicaoAninhada.java) <BR>
 Quando o programa é executado, ele solicita ao usuário que insira dois números inteiros. Em seguida, compara esses números e exibe uma mensagem indicando se o primeiro número é maior, menor ou igual ao segundo número. <BR>
 O principal objetivo deste programa é demonstrar o uso de condições aninhadas (if-else) em Java para comparar dois valores inteiros.
 
