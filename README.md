@@ -8,7 +8,7 @@ Este programa serve como uma demonstração prática de como utilizar a classe S
 Quando o programa é executado, ele solicita ao usuário que insira dois números inteiros. Em seguida, compara esses números e exibe uma mensagem indicando se o primeiro número é maior, menor ou igual ao segundo número. <BR>
 O principal objetivo deste programa é demonstrar o uso de condições aninhadas (if-else) em Java para comparar dois valores inteiros.
 
-4-Condiçoes - switch.txt <BR>
+4-Condiçoes - switch.txt (CondicaoSwitch.java) <BR>
 Quando executado, o programa solicita que o usuário digite um número entre 1 e 3. Com base na entrada do usuário, ele imprime uma mensagem correspondente utilizando a estrutura switch. <BR>
 O principal propósito deste programa é demonstrar o uso da estrutura switch em Java para avaliar uma variável e executar um bloco de código específico dependendo do seu valor.
 
