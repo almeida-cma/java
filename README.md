@@ -12,7 +12,7 @@ O principal objetivo deste programa é demonstrar o uso de condições aninhadas
 Quando executado, o programa solicita que o usuário digite um número entre 1 e 3. Com base na entrada do usuário, ele imprime uma mensagem correspondente utilizando a estrutura switch. <BR>
 O principal propósito deste programa é demonstrar o uso da estrutura switch em Java para avaliar uma variável e executar um bloco de código específico dependendo do seu valor.
 
-5-Repetição - while.txt <BR>
+5-Repetição - while.txt (SomaPositivos2.java) <BR>
 Ao executar, o programa irá continuamente solicitar ao usuário que insira números. Ele irá adicionar os números positivos à soma total, mas interromperá a solicitação e exibirá o resultado quando um número negativo for inserido. <BR>
 O principal objetivo deste programa é demonstrar o uso de um loop while para continuar a execução enquanto uma condição for verdadeira e a capacidade de somar valores inseridos pelo usuário até que uma condição de saída seja atingida.
 
