@@ -25,7 +25,7 @@ O principal objetivo deste programa é demonstrar como usar um loop for para ler
 Quando este programa é executado, ele imprimirá os números 10, 20, 70, 40 e 50 no console, um número por linha. <BR>
 O principal objetivo deste programa é demonstrar a manipulação básica de arrays em Java: como declará-los, inicializá-los e iterar sobre eles para exibir seus valores.
 
-8-TesteArrayForEach.txt <BR>
+8-TesteArrayForEach.txt (TesteArrayForEach.java) <BR>
 Quando este programa é executado, ele imprimirá os números 10, 20, 70, 40 e 50 no console, um número por linha. <BR>
 A principal característica deste programa é mostrar uma abordagem alternativa e mais simplificada para manipular arrays em Java usando o loop "for-each". Esta estrutura permite percorrer diretamente os elementos de um array (ou qualquer coleção) sem a necessidade de usar um índice explícito, tornando o código mais limpo e legível.
 
