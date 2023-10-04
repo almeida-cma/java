@@ -1,0 +1,12 @@
+/*
+package program.aula; (Nome do pacote deve coincidir com o nomeado no NetBeans)
+ */
+public class Saidas {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        System.out.print("Crishna ");
+        System.out.print("Irion");
+        System.out.print("\n Sou \n uma \n boa \n aluna \n ");
+    }
+}

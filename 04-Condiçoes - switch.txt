@@ -1,0 +1,28 @@
+/*
+package program.aula; (Nome do pacote deve coincidir com o nomeado no NetBeans)
+ */
+import java.util.Scanner;
+
+public class CondicaoSwitch {
+
+    public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite um número entre 1 e 3:");
+        int n = entrada.nextInt();
+        switch (n) {
+            case 1:
+                System.out.println("Você escolheu 1");
+                break;
+            case 2:
+                System.out.println("Você escolheu 2");
+                break;
+            case 3:
+                System.out.println("Você escolheu 3");
+                break;
+            default:
+                System.out.println("Número inválido");
+                break; // Pode ser útil incluir um break no default, mesmo que não seja estritamente necessário
+        }
+        entrada.close(); // É uma boa prática fechar o Scanner quando terminar de usá-lo
+    }
+}
