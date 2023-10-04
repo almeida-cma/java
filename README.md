@@ -17,7 +17,7 @@ Ao executar, o programa irá continuamente solicitar ao usuário que insira núm
 O principal objetivo deste programa é demonstrar o uso de um loop while para continuar a execução enquanto uma condição for verdadeira e a capacidade de somar valores inseridos pelo usuário até que uma condição de saída seja atingida.
 
 
-6-Repetição - for.txt <BR>
+6-Repetição - for.txt (SomaImpares.java) <BR>
 Quando executado, o programa primeiro solicita ao usuário que especifique quantos números deseja inserir. Em seguida, para cada número, o programa verifica se ele é ímpar. Se for, o número é somado a um total acumulado. Finalmente, o programa exibe a soma de todos os números ímpares inseridos. <BR>
 O principal objetivo deste programa é demonstrar como usar um loop for para ler um número específico de entradas e realizar uma ação condicional (neste caso, somar números ímpares).
 
